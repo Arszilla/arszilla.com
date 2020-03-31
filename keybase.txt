@@ -1,0 +1,59 @@
+---
+permalink: "/keybase.txt"
+---
+==================================================================
+https://keybase.io/arszilla
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://arszilla.com
+  * I am arszilla (https://keybase.io/arszilla) on keybase.
+  * I have a public key ASDqkoPMPgFfoHr-4C61qibrLcpm82cYHcezVNhp54b5NQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203efb28e6d4ccf88415229dbdf5a6fb57074a345bba180f061f4680f8bfe7d8d40a",
+      "host": "keybase.io",
+      "kid": "0120ea9283cc3e015fa07afee02eb5aa26eb2dca66f367181dc7b354d869e786f9350a",
+      "uid": "e274bfdb737a057f19d2811b07d16d19",
+      "username": "arszilla"
+    },
+    "merkle_root": {
+      "ctime": 1568135137,
+      "hash": "65a294ecf4bb2762b390ae717d800f373773c346076fa0806a8a640f3e9bbedbb436f66fece92350aa416dc4e6ce4f1593d45c7d36b5a09faacbd3ce0145aa4b",
+      "hash_meta": "6a7a68e70f25554db88184bf8a637ee4ed6669113168b4eff8eb3ca843d251d3",
+      "seqno": 6469672
+    },
+    "service": {
+      "entropy": "+fF63WoICk0TybQo4EN4vB8j",
+      "hostname": "arszilla.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568135135,
+  "expire_in": 504576000,
+  "prev": "56355f84b5eb548d7d95cc73329f9114ef8a0c587a217e7b4dffabc4a60e467f",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6pKDzD4BX6B6/uAutaom6y3KZvNnGB3Hs1TYaeeG+TUKp3BheWxvYWTESpcCJcQgVjVfhLXrVI19lcxzMp+RFO+KDFh6IX57Tf+rxKYORn/EIOG3YnDe77Fv9U0pAP8wHe6eXpah6F8jzBcVTmZZ5HFJAgHCo3NpZ8RA3Ae3jEyKBhEUUvXbDHXBV9Oi4rtjv3nEwzOuhFjQV5FQCQ0NBG9LlR+13OTcvV9sIuzjjPa4JQIxuDPu9v/UBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJUcN7T9G17srjwUz9q+NeWWhNXXaJ9WD2hMz68f5CHso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arszilla
+
+==================================================================

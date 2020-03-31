@@ -1,0 +1,40 @@
+###################################
+# Site wide configuration
+####################################
+title:        Arszilla
+email:        arszilla@protonmail.com
+description:  Mathematics undergraduate's adventures in PT, MA & OSINT
+url:          https://arszilla.com
+baseurl: ""
+keywords:     ["blog", "jekyll"]
+
+###################################
+# Jekyll configuration
+####################################
+timezone:     Turkey
+markdown:     kramdown
+highlighter:  rouge
+permalink:    /:title
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
+
+###################################
+# Site Owner configuration
+####################################
+owner:
+  name:     Arszilla
+  avatar:   avatar.jpg
+  job:      "Cybersecurity Researcher"
+  bio:      "Mathematics undergraduate's adventures in PT, MA & OSINT"
+  email:    arszilla@protonmail.com
+  twitter:  Arszilla
+  google:
+    analytics:
+  github:   Arszilla
+  gitlab:   Arszilla
+  linkedin: arslanmasood

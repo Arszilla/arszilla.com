@@ -1,0 +1,23 @@
+- year: 2020
+  projects:
+  - name: Kali i3-gaps
+    technologies: Bash, Linux
+    description: A build script based on Kali's live-build-config that generates an ISO of Kali Linux using i3-gaps as a WM.
+    link: https://gitlab.com/Arszilla/kali-i3-gaps
+
+- year: 2019
+  projects:
+  - name: PyRecon
+    technologies: Python, OSINT
+    description: A small program that searches for existence of a given username in various websites.
+    link: https://github.com/Arszilla/PyRecon
+
+  - name: PwnChrome
+    technologies: Python, Windows API
+    description: A small program that grabs saved passwords from Chrome using a vulnerability where saved passwords are vulnerable to attacks/grabs when Chrome is closed.
+    link: https://github.com/Arszilla/PwnChrome
+
+  - name: BruteZIP
+    technologies: Python. Brute-force
+    description: A small program that unzips password protected ZIPs by performing a brute-force attack using either a word list, password list or a dictionary.
+    link: https://github.com/Arszilla/BruteZIP
