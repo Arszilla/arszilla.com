@@ -2,10 +2,10 @@
 # Site wide configuration
 ####################################
 title:        Arszilla
-email:        arszilla@protonmail.com
+email:        contact@arszilla.com
 description:  Mathematics undergraduate's adventures in PT, MA & OSINT
 url:          https://arszilla.com
-baseurl: ""
+baseurl:      ""
 keywords:     ["blog", "jekyll"]
 
 ###################################
@@ -27,14 +27,14 @@ kramdown:
 # Site Owner configuration
 ####################################
 owner:
-  name:     Arszilla
-  avatar:   avatar.jpg
-  job:      "Cybersecurity Researcher"
-  bio:      "Mathematics undergraduate's adventures in PT, MA & OSINT"
-  email:    arszilla@protonmail.com
-  twitter:  Arszilla
+  name:         Arszilla
+  avatar:       avatar.jpg
+  job:          "Cybersecurity Researcher"
+  bio:          "Mathematics undergraduate's adventures in PT, MA & OSINT"
+  email:        contact@arszilla.com
+  twitter:      Arszilla
   google:
     analytics:
-  github:   Arszilla
-  gitlab:   Arszilla
-  linkedin: arslanmasood
+  github:       Arszilla
+  gitlab:       Arszilla
+  linkedin:     arslanmasood
