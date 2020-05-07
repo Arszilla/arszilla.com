@@ -1,5 +1,15 @@
 - year: 2020
   projects:
+  - name: SierraTwo
+    technologies: Python, Slack API
+    description: A simple reverse shell over Slack.
+    link: https://github.com/berkgoksel/SierraTwo
+
+  - name: SierraOne
+    technologies: Python, Discord API
+    description: A simple shared reverse shell over Discord.
+    link: https://github.com/berkgoksel/SierraOne
+
   - name: Kali i3-gaps
     technologies: Bash, Linux
     description: A build script based on Kali's live-build-config that generates an ISO of Kali Linux using i3-gaps as a WM.
