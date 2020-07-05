@@ -13,7 +13,7 @@
   - name: Kali i3-gaps
     technologies: Bash, Linux
     description: A build script based on Kali's live-build-config that generates an ISO of Kali Linux using i3-gaps as a WM.
-    link: https://gitlab.com/Arszilla/kali-i3-gaps
+    link: https://gitlab.com/Arszilla/kali-i3_gaps
 
 - year: 2019
   projects:
