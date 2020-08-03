@@ -11,7 +11,7 @@ keywords:     ["blog", "jekyll"]
 ###################################
 # Jekyll configuration
 ####################################
-timezone:     Turkey
+timezone:     Europe/Istanbul
 markdown:     kramdown
 highlighter:  rouge
 permalink:    /:title
