@@ -310,7 +310,7 @@ When writing a report, keep these in mind:
 out of nowhere. Be consistent.
 2. Try to keep the executive summary short, clear, and easy to follow.
 3. In the technical aspect of the report, don't write vulnerabilities, etc. like you're writing a writeup. A writeup 
-$\neq$ report.
+$$\neq$$ report.
 4. While talking about how you've exploited a vulnerability, don't tell your life's story. Keep it to the point, keep 
 the relevant parts. Don't talk a lot about `gobuster` and its output if you're heading is about an SQLi in the admin 
 login panel. Just state that you've found it by performing reconnaissance via `gobuster`.
