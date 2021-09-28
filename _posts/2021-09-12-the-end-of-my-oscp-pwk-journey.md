@@ -365,6 +365,7 @@ and lows, with my self doubt or over self-esteem, I can't thank them enough:
 [OSCP Certificate]:     images/2021-09-12-the-end-of-my-oscp-pwk-journey/certificate.jpg
 [TJNull]:               https://twitter.com/TJ_Null
 [TJNull's Blogpost]:    https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
+[blogpost]:             a-hard-point-in-my-oscp-pwk-journey
 [Noraj Github]:         https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
 [Offensive Security]:   https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc
 [OSEP]:                 https://www.offensive-security.com/pen300-osep/
