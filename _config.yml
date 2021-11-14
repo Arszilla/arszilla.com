@@ -3,7 +3,7 @@
 ####################################
 title:        Arszilla
 email:        contact@arszilla.com
-description:  Mathematics undergraduate's adventures in PT, MA & OSINT
+description:  OSCP | Mathematician turned hacker
 url:          https://arszilla.com
 baseurl:      ""
 keywords:     ["blog", "jekyll"]
@@ -29,8 +29,8 @@ kramdown:
 owner:
   name:         Arszilla
   avatar:       avatar.jpg
-  job:          "Cybersecurity Researcher"
-  bio:          "Mathematics undergraduate's adventures in PT, MA & OSINT"
+  job:          "Penetration Tester"
+  bio:          "OSCP | Mathematician turned hacker"
   email:        contact@arszilla.com
   twitter:      Arszilla
   google:
