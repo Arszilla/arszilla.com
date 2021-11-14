@@ -2,7 +2,7 @@
 title: Hiding Your C2 Traffic With Discord & Slack
 excerpt: A short blog post revisiting my IsolationCon 2 talk about using Discord & Slack as a way to hide your C2 framework traffic
 date: 2021-11-14 23:30:00 +03 GMT
-categories: Red Teaming, C2, Discord, Slack
+categories: RT C2 Discord Slack
 ---
 
 ## Introduction
