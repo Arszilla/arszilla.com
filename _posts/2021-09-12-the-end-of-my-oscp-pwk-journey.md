@@ -90,7 +90,7 @@ another time, but this is an issue that has to be addressed in my opinion.
 
 ## Preparation for the Exam
 I started preparing for OSCP around mid-July if I recall correctly. I started off by reading other people's blog 
-posts, like my good friend and mentor [TJNull]{:target="_blank"}'s 
+posts, like my good friend and mentor [TJNull][TJNull]{:target="_blank"}'s 
 [The Journey to Try Harder: TJnull’s Preparation Guide for PWK/OSCP][TJNull's Blogpost]{:target="_blank"} and many 
 other blog-posts like it, in order to see what boxes I should try to do, what should I watch out for, etc.
 
@@ -349,18 +349,18 @@ I have no idea when I'll get to them, but I'd like to at least start one by earl
 plan to write a blog post similar to this at the end of the journey, as it might help out others.
 
 I also plan on starting my own GitBook containing various stuff I've learned, done, etc. as a note for both myself and 
-others, containing stuff from pentesting, red teaming, social engineering, etc., similar to [HackTricks][HackTricks]' 
-GitBook. I don't know when I'll get to it, but this is in my TODOs..
+others, containing stuff from pentesting, red teaming, social engineering, etc., similar to 
+[HackTricks][HackTricks]{:target="_blank"}' GitBook. I don't know when I'll get to it, but this is in my TODOs..
 
 ## Special Thanks
 For my closing words, I'd like to thank a few individuals (in no specific order) that have helped me a lot 
 tremendously in many ways, helping me achieve this feat. They've helped regarding many stuff, whether it be my highs 
 and lows, with my self doubt or over self-esteem, I can't thank them enough:
-- [TJNull][TJNull]
-- [Berk Cem Göksel][BCG]
-- [goeo_][goeo]
-- [CarrotCake][CarrotCake]
-- [initinfosec][initinfosec]
+- [TJNull][TJNull]{:target="_blank"}
+- [Berk Cem Göksel][BCG]{:target="_blank"}
+- [goeo_][goeo]{:target="_blank"}
+- [CarrotCake][CarrotCake]{:target="_blank"}
+- [initinfosec][initinfosec]{:target="_blank"}
 
 [OSCP Certificate]:     images/2021-09-12-the-end-of-my-oscp-pwk-journey/certificate.jpg
 [TJNull]:               https://twitter.com/TJ_Null

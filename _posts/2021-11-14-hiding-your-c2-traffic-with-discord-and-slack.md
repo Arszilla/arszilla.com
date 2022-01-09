@@ -6,12 +6,13 @@ categories: RT C2 Discord Slack
 ---
 
 ## Introduction
-On April 24 2021, [Berk Cem Göksel][Berk Cem Göksel] and I presented "Hiding Your C2 Traffic Under Discord & Slack 
-Traffic" at [IsolationCon 2][IsolationCon2]. There, we talked about using Discord or Slack's API and bot 
-functionalities in order to hide your C2 traffic from curious eyes.
+On April 24 2021, [Berk Cem Göksel][Berk Cem Göksel]{:target="_blank"} and I presented "Hiding Your C2 Traffic Under 
+Discord & Slack Traffic" at [IsolationCon 2][IsolationCon2]{:target="_blank"}. There, we talked about using Discord or 
+Slack's API and bot functionalities in order to hide your C2 traffic from curious eyes.
 
 We talked about the advantages and disadvantages of such a concept alongside our proof-of-concepts, 
-[SierraOne][SierraOne] and [SierraTwo][SierraTwo], where we developed a basic yet functional C2 framework on Discord 
+[SierraOne][SierraOne]{:target="_blank"} and [SierraTwo][SierraTwo]{:target="_blank"}, where we developed a basic yet 
+functional C2 framework on Discord 
 and Slack.
 
 Since the Twitch vod has been lost to the time and the talk hasn't been uploaded to YouTube, I decided to turn it into 
@@ -127,8 +128,8 @@ Since then, I checked the scans today (2021-11-14) and saw that these numbers ha
 - 3/67 detection for `SierraTwo`
 
 If you're interested in taking a look at the VT scans:
-- [SierraOne VirusTotal][SierraOne VirusTotal]
-- [SierraTwo VirusTotal][SierraOne VirusTotal]
+- [SierraOne VirusTotal][SierraOne VirusTotal]{:target="_blank"}
+- [SierraTwo VirusTotal][SierraOne VirusTotal]{:target="_blank"}
 
 ## The Advantages & Disadvantages
 Now, given that these API's have existed for years with Python libraries available or them, you might be asking "then 
